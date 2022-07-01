@@ -1,0 +1,96 @@
+#labels
+{
+    color: brown;
+    font-size: 24px;
+}
+
+h1
+{
+    color:black;
+    font-size: 24px;
+}
+
+.button
+{
+    margin: 5px;
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    width: 80px;
+}
+
+.submit-button
+{
+    background-color: aqua;
+    color: black;
+
+}
+
+.resetbutton
+{
+    color: black;
+    background-color: red;
+}
+
+.loginbutton
+{
+    color: black;
+    background-color: aqua;
+}
+
+.signinbutton
+{
+    color: black;
+    background-color:antiquewhite;
+}
+
+
+  #sticky{
+    position: sticky;
+    background-color: #cae8ca;
+    border: 2px solid #4CAF50;
+    height: 25px;
+    top: 0px;
+  }
+
+#relative{
+    position: relative;
+    background-color: skyblue;
+    border: 3px solid blue;
+    top: 0;
+    height: 25px;
+
+}
+
+#static{
+    position: static;
+    background-color:darkgrey;
+    border: 3px solid black;
+    top: 0;
+    height: 25px;
+}
+
+
+  .img-border
+  {
+    border: 5px solid black;
+    
+  }
+
+  .error_message{
+    color: red;
+    font-size: 10px;
+  }
+
+  .success_message{
+    color: lightgreen;
+    font-size: 10px;
+  }
+
+
+  .table{
+    border: 3px solid gray;
+    border-radius: 5px
+  
+  }
+

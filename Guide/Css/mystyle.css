@@ -1,0 +1,179 @@
+#labels
+{
+    color: rgb(64, 65, 62);
+    font-size: 24px;
+}
+
+h1
+{
+    color:black;
+    font-size: 24px;
+}
+
+
+div.body {
+    border:1px solid rgb(0, 0, 0);
+    margin-top: 30px;
+    margin-bottom: 70px;
+    margin-right: 250px;
+    margin-left: 250px;
+    background-color: rgb(182, 173, 230)
+ }
+    
+ div.body1 {
+    border:1px solid rgb(0, 0, 0);
+    margin-top: 30px;
+    margin-bottom: 70px;
+    margin-right: 250px;
+    margin-left: 250px;
+    background-color: rgb(243, 213, 106)
+ }
+
+ div.body2 {
+    border:1px solid rgb(0, 0, 0);
+    margin-top: 30px;
+    margin-bottom: 70px;
+    margin-right: 250px;
+    margin-left: 250px;
+    background-color: rgb(133, 175, 101)
+ }
+
+.submit-button
+{
+    background-color: black;
+    color: blueviolet;
+
+}
+
+.resetbutton
+{
+    color: black;
+    background-color: red;
+}
+
+.updatebutton
+{
+    color: black;
+    background-color: aqua;
+}
+
+.signinbutton
+{
+    color: black;
+    background-color:green;
+}
+
+
+  #sticky{
+    position: sticky;
+    background-color: papayawhip;
+    border: 2px solid peachpuff;
+    height: 25px;
+    top: 0px;
+  }
+
+#relative{
+    position: relative;
+    background-color: skyblue;
+    border: 3px solid slateblue;
+    top: 0;
+    height: 25px;
+
+}
+
+#static{
+    position: static;
+    background-color:grey;
+    border: 3px solid black;
+    top: 0;
+    height: 25px;
+}
+
+
+  .img-border
+  {
+    border: 5px solid black;
+    
+  }
+
+  a:link,a:visited{
+    background-color:#414343;
+    color:white;
+    padding:20px30px;
+    text-align:center;
+    text-decoration:none;
+    display:inline-block;
+    }
+    a:hover,a:active{
+    background-color:rgb(229, 228, 233);
+    }
+
+  .error_message{
+    color: red;
+    font-size: 10px;
+  }
+
+
+
+  .table{
+    border: 3px solid gray;
+    border-radius: 5px
+  
+  }
+
+  body
+{
+    font-family: verdana;
+    
+}*{
+    margin:0;
+    padding:0;
+}
+header{
+    position: absolute;
+    background-color: gray;
+    width: 100%;
+    color: white;
+}
+
+footer{
+    /* position: absolute; */
+    background-color: 	black;
+    width: 100%;
+    color: white;
+    margin-top: 40px;
+}
+header h2{
+    position: absolute;
+    margin-top: 20px;
+    left: 3%;
+}
+header{
+    height: 8vh;
+}
+footer h2{
+    position: absolute;
+    left: 45%;
+}
+footer{
+    height: 8vh;
+    bottom: 0;
+}
+footer h3{
+    font-style: italic;
+    color: white;
+}
+
+.nav{
+    position: absolute;
+    width: 100%;
+}
+
+.nav a{
+    position: relative;
+    left: 70%;
+    top: 20px;
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}

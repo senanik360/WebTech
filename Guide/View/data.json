@@ -1,0 +1,39 @@
+[
+    {
+        "first_name": "Yousuf",
+        "Last_name": null,
+        "date_of_birth": "2000-01-03",
+        "email": "aynoman151@gmail.com",
+        "mobile_no": "01795412919",
+        "nid": "1234567890123",
+        "address": "",
+        "password": "New0011&"
+    },
+    {
+        "first_name": "Yousuf",
+        "date_of_birth": "2000-01-03",
+        "email": "aynoman151@gmail.com",
+        "mobile_no": "01795412919",
+        "nid": "0123456789123",
+        "address": "",
+        "password": "New0011&"
+    },
+    {
+        "first_name": "Yousuf",
+        "date_of_birth": "2000-01-23",
+        "email": "aynoman151@gmail.com",
+        "mobile_no": "01795412919",
+        "nid": "1234567890123",
+        "location": "Bandorban",
+        "password": "Noman123@"
+    },
+    {
+        "first_name": "Yousuf",
+        "date_of_birth": "2000-01-03",
+        "email": "aynoman151@gmail.com",
+        "mobile_no": "01795412919",
+        "nid": "1234567890123",
+        "location": "Bandorban",
+        "password": "New001177&"
+    }
+]

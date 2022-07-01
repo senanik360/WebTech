@@ -1,0 +1,32 @@
+[
+  {
+    "first_name": "asasa",
+    "Last_name": "saasas",
+    "date_of_birth": "2022-03-12",
+    "email": "admin@gmail.com",
+    "mobile_no": "01764814448",
+    "nid": "1111111111111",
+    "address": "qwqwqqw",
+    "password": "123@"
+  },
+  {
+    "first_name": "Imtiaz",
+    "Last_name": "Nakib",
+    "date_of_birth": "2022-03-08",
+    "email": "imtiaz42121@gmail.com",
+    "mobile_no": "01725000000",
+    "nid": "1111111111111",
+    "address": "Uttara",
+    "password": "imtiaz@"
+  },
+  {
+    "first_name": "Imtiaz",
+    "Last_name": "Nakib",
+    "date_of_birth": "2022-03-15",
+    "email": "imtiaznakib24@gmail.com",
+    "mobile_no": "01724767638",
+    "nid": "1111111111111",
+    "address": "Uttara sector-9",
+    "password": "imtiaz@"
+  }
+]
