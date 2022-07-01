@@ -1,0 +1,70 @@
+#sticky {
+  position: sticky;
+  background-color: #cae8ca;
+  border: 2px solid #4CAF50;
+  height: 25px;
+  top: 0px;
+}
+
+#relative {
+  position: relative;
+  background-color: skyblue;
+  border: 3px solid blue;
+  top: 0;
+  height: 25px;
+
+}
+
+
+
+
+#static {
+  position: static;
+  background-color: darkgrey;
+  border: 3px solid black;
+  top: 0;
+  height: 25px;
+}
+
+#fixed {
+  position: fixed;
+  background-color: yellow;
+  border: 3px solid red;
+  /* top: 0; */
+  height: 25px;
+  left: 250px;
+}
+
+#absolute {
+  position: absolute;
+  background-color: rgb(192, 243, 255);
+  border: 3px solid rgba(230, 0, 255, 0.16);
+  /* top: 0; */
+  height: 25px;
+  left: 250px;
+}
+
+
+.submit-button {
+  background-color:blue;
+  color: white;
+}
+
+.resetbutton {
+  color: black;
+  background-color: red;
+}
+
+.loginbutton {
+  color: black;
+  background-color: aqua;
+}
+
+.signinbutton {
+  color: black;
+  background-color: green;
+}
+
+
+
+

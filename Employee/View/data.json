@@ -1,0 +1,50 @@
+[
+    {
+        "first_name": "Nazifa",
+        "Last_name": "Ahmed",
+        "date_of_birth": "2022-03-18",
+        "email": "nazifaahmedhridy@gmail.com",
+        "mobile_no": "01627551342",
+        "nid": "1234567891234",
+        "address": "",
+        "password": "New0011&"
+    },
+    {
+        "first_name": "Anik",
+        "Last_name": "Sen",
+        "date_of_birth": "2022-03-08",
+        "email": "aniksen@gmail.com",
+        "mobile_no": "01681234565",
+        "address": "Baddha",
+        "password": "Anik@123"
+    },
+    {
+        "first_name": "Nakib",
+        "Last_name": "Nuhan",
+        "date_of_birth": "2022-03-23",
+        "email": "nakib@gmail.com",
+        "mobile_no": "01765431234",
+        "address": "Uttara",
+        "password": "Nakib@1234"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "first_name": "Noman",
+        "Last_name": "Abdullah",
+        "date_of_birth": "2022-03-22",
+        "email": "noman@gmail.com",
+        "mobile_no": "01671234567",
+        "address": "baddha",
+        "password": "Noman@123"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+]
